@@ -18,3 +18,5 @@ Open the index.html file in your web browser to use the calculator.
 
 # Contributions:
 Contributions and improvements to the calculator are welcome! Please feel free to fix this repository, make changes, and create pull requests to enhance its functionality and user experience.
+
+![image](https://github.com/aniiishetty/Scientific-Calculator/assets/122535414/0fff004d-951b-43d6-aa7c-043d87d6e207)
